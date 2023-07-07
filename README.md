@@ -41,7 +41,7 @@
     <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Subdij&theme=gruvbox&show_icons=true&count_private=true" />
   </div>
 
-  <h3 align="center">Merci d'avoir pris le temps de visionner ce profil Github</h3>
+  <h3 align="center">Merci d'avoir pris le temps de visionner mon profil Github</h3>
 
   <div align="center">
   <img src="https://profile-counter.glitch.me/Subdij/count.svg?"  />
