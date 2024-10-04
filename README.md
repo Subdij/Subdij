@@ -42,9 +42,6 @@
   </div>
 
   <h3 align="center">Thank you for taking the time to view my Github profile</h3>
-
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/Subdij/count.svg?"  />
     
 </div>
 
